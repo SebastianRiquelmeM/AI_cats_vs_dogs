@@ -6,3 +6,5 @@ Para usar el código, se debe descargar un api key de kaggle. Reemplazando:
 !cp /content/kaggle.json ~/.kaggle/
 
 por !cp /content/<nombre_api_key>.json ~/.kaggle/
+
+Con 10 épocas el modelo alcanza una presición aproximada del 85%.
